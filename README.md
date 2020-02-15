@@ -4,7 +4,7 @@ The features of this simple include:
 
 
 
---> Users can add tweets using the HTML
+--> User can add tweets using the HTML
 
 --> Tweets posted by the user are saved into the local storage
 
